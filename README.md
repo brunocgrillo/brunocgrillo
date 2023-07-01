@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Bruno Grillo
 
-🔭 I’m currently working with continuous improvement
-🌱 Learning data science
-💬 Ask me about SQL, Python, Power BI and VBA
-📫 How to reach me: <a href="https://linkedin.com/in/brunocardozogrillo" target="_blank">
+- 🔭 I’m currently working with continuous improvement
+- 🌱 Learning data science
+- 💬 Ask me about SQL, Python, Power BI and VBA
+- 📫 How to reach me: <a href="https://linkedin.com/in/brunocardozogrillo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Bruno%20Grillo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-
+</a>
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
