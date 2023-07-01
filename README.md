@@ -7,15 +7,15 @@
   <img align="center" src="https://img.shields.io/badge/-Bruno%20Grillo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![OracleSQL](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=ORACLE)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;<br>
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=ORACLE)&nbsp;<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;<br>
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;<br>
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;<br>
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 <br><br>
