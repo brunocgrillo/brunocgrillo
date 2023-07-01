@@ -6,6 +6,9 @@
 - 📫 How to reach me: <a href="https://linkedin.com/in/brunocardozogrillo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Bruno%20Grillo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+
+<br><br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
