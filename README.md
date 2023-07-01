@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Bruno Grillo
 
-<!--
-**brunocgrillo/brunocgrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working with continuous improvement
+🌱 Learning data science
+💬 Ask me about SQL, Python, Power BI and VBA
+📫 How to reach me: <a href="https://linkedin.com/in/brunocardozogrillo" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Bruno%20Grillo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
-Here are some ideas to get you started:
+## 🛠 &nbsp;Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![OracleSQL](https://img.shields.io/badge/-OracleSQL-05122A?style=flat&logo=ORACLE)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+<br><br>
