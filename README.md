@@ -5,7 +5,7 @@
 #### Talking a little about me
 
 - 📊 I’m currently working with data analysis and continuous improvement
-- 🎓 I’m in college studying Systems Development
+- 🎓 I’m studying Systems Development
 - 📚 Learning data science
 - 💬 Ask me about SQL, Python, Power BI and VBA
   
